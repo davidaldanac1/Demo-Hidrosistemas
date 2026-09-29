@@ -108,7 +108,7 @@ export default function AsesoriaView({ onContactClick }) {
         </h1>
 
         {/* Subtítulo */}
-        <p className="text-sm md:text-base text-slate-500 max-w-2xl mx-auto mt-3 leading-relaxed">
+        <p className="text-sm md:text-base text-slate-500 max-w-2xl mx-auto mt-1 leading-relaxed">
           Proporcionamos asesoramiento al efectuar una inversión económica para ayudar a tu empresa a obtener el beneficio de un ahorro proyectado.
         </p>
 
